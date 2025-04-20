@@ -1,3 +1,6 @@
+---
+title: Home | Test
+---
 # Test
 ## What is this?
 
