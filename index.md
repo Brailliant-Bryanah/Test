@@ -1,6 +1,11 @@
 ---
 title: Home
----
+---Tony: <style>
+a.anchor {
+  display: none !important;
+}
+</style>, 8 minutes ago (Not seen)
+
 # Test
 ## What is this?
 
