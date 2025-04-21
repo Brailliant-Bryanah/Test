@@ -1,11 +1,11 @@
 ---
 title: Home
----Tony: <style>
+---
+<style>
 a.anchor {
   display: none !important;
 }
-</style>, 8 minutes ago (Not seen)
-
+</style>
 # Test
 ## What is this?
 
