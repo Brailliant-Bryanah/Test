@@ -1,6 +1,5 @@
 ---
 title: Bryanah's Test Site
-theme: null
 markdown: kramdown
-auto_ids: false
+heading_anchors: false
 ---
